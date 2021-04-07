@@ -1,6 +1,6 @@
 # Bot Github
 
-![Bot Github](https://github.com/bachtiar-firdaus/bot-commit/workflows/Bot%20Commit/badge.svg)
+![Bot Github](https://github.com/bachtiar-firdaus)
 
 Bot yang dapat membuat statistik Github Anda menjadi hijau dengan komit otomatis terjadwal.
 
