@@ -4,7 +4,7 @@
 - Email: [id.Bachtiar.firdaus@gmail.com](id.Bachtiar.firdaus@gmail.com)
 - LinkedIn: [Bachtiar Firdaus](https://www.linkedin.com/in/bachtiar-firdaus-64b35419b/)
 - Instagram: [@Firdaus_Bchtr](https://www.instagram.com/Firdaus_bchtr/)
-- 
+
 ## Bot Github
 
 Bot yang dapat membuat statistik Github Anda menjadi hijau dengan komit otomatis terjadwal.
